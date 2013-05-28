@@ -105,13 +105,14 @@
 - `Snipmate`
 
 ## Pro-Tips
-- . will repeat previous command
-- gf will open a file path in a new buffer, demo
-- '. will jump to the last edited line
-- ctrl + o will jump to the previously visited location
+- `.` will repeat previous command
+- `gf` will open a file path in a new buffer, demo
+- `'.` will jump to the last edited line
+- `ctrl + o` will jump to the previously visited location
 - macros!
 
 # Questions & Exercise
 - Sorry for the info dump.
+- In the exercises folder, you'll see a large file with a bunch of Vim exercises, let's go through them!
 
 
