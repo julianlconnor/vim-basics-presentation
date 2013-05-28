@@ -1,4 +1,5 @@
-#How to not be a `scrub`.. AKA Vim Basics
+# How to not be a `scrub`
+#### AKA Vim Basics :D
 
 ## What is `Vim`?
 `Vim` is a highly configurable text editor built to enable efficient text editing. It is an improved version of the `vi` editor distributed with most `UNIX` systems.
